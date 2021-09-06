@@ -7,12 +7,12 @@ The game is pretty simple.
 
 ### 1
 
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame1.JPG)
+![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame1.png)
 
 ### 2
 
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.JPG)
+![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.png)
 
 ### 3
 
-![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.JPG)
+![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame3.png)
