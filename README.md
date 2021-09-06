@@ -5,14 +5,14 @@ The game is pretty simple.
 
 ## Game Images
 
-# 1
+### 1
 
 ![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame1.JPG)
 
-# 2
+### 2
 
 ![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.JPG)
 
-# 3
+### 3
 
 ![](https://github.com/beyzayuksell/Snake-Game/blob/main/Application-Images/snakegame2.JPG)
