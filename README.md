@@ -1,7 +1,8 @@
 # Snake-Game
 
  Java game project is a desktop project that used AWT library and Swing library. Java awt library is used in the project.
-The game is pretty simple. 
+
+The game is pretty simple. Game continues as long as the snake does not step on its tail and leave the playing area. The aim of the game is to have the highest score.
 
 ## Game Images
 
